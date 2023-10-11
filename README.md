@@ -1,6 +1,6 @@
 # Image-based Product Recommendation System on Fashion Dataset [An Unsupervised Way]
 
-<br/><center><img src="https://github.com/Gourang97/Fashion_dataset_uml/blob/master/Results/FirstSlide.PNG" width="800" height="400"></center>
+
 
 
 
